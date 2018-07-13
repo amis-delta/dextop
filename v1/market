@@ -1,0 +1,146 @@
+{
+  "marketAddr": "0x7600977Eb9eFFA627D6BD0DA2E5be35E11566341",
+  "label": "NoneLabel",
+  "config": {
+    "makerFeeRateE4": "10",
+    "takerFeeRateE4": "20",
+    "withdrawFeeRateE4": "0",
+    "cashTokens": [
+      {
+        "tokenId": "ETH",
+        "tokenName": "",
+        "tokenCode": 0,
+        "tokenAddr": "",
+        "scaleFactor": "1000000000000000000"
+      }
+    ],
+    "stockTokens": [
+      {
+        "tokenId": "LOOM",
+        "tokenName": "Loom Network",
+        "tokenCode": 100,
+        "tokenAddr": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "KNC",
+        "tokenName": "Kyber Network",
+        "tokenCode": 101,
+        "tokenAddr": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "ZIL",
+        "tokenName": "Zilliqa",
+        "tokenCode": 102,
+        "tokenAddr": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+        "scaleFactor": "1000000000000"
+      },
+      {
+        "tokenId": "CTXC",
+        "tokenName": "Cortex",
+        "tokenCode": 103,
+        "tokenAddr": "0xEa11755Ae41D889CeEc39A63E6FF75a02Bc1C00d",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "YEE",
+        "tokenName": "Yee Token",
+        "tokenCode": 104,
+        "tokenAddr": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "QKC",
+        "tokenName": "QuarkChain",
+        "tokenCode": 105,
+        "tokenAddr": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "PAL",
+        "tokenName": "PolicyPal Network",
+        "tokenCode": 107,
+        "tokenAddr": "0xfeDAE5642668f8636A11987Ff386bfd215F942EE",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "MEDX",
+        "tokenName": "MediBloc",
+        "tokenCode": 106,
+        "tokenAddr": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
+        "scaleFactor": "100000000"
+      },
+      {
+        "tokenId": "HPB",
+        "tokenName": "High Performance Blockchain",
+        "tokenCode": 108,
+        "tokenAddr": "0x38c6A68304cdEfb9BEc48BbFaABA5C5B47818bb2",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "XUC",
+        "tokenName": "Exchange Union",
+        "tokenCode": 109,
+        "tokenAddr": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "BUT",
+        "tokenName": "BitUp",
+        "tokenCode": 110,
+        "tokenAddr": "0xB2E260F12406c401874EcC960893C0f74Cd6aFcd",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "UPP",
+        "tokenName": "Sentinel Protocol",
+        "tokenCode": 111,
+        "tokenAddr": "0xC86D054809623432210c107af2e3F619DcFbf652",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "CHSB",
+        "tokenName": "SwissBorg",
+        "tokenCode": 112,
+        "tokenAddr": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+        "scaleFactor": "100000000"
+      },
+      {
+        "tokenId": "RTE",
+        "tokenName": "Rate3 Network",
+        "tokenCode": 113,
+        "tokenAddr": "0x436F0F3a982074c4a05084485D421466a994FE53",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "DCC",
+        "tokenName": "Distributed Credit Chain",
+        "tokenCode": 114,
+        "tokenAddr": "0xFFa93Aacf49297D51E211817452839052FDFB961",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "TTC",
+        "tokenName": "TTC Protocol",
+        "tokenCode": 116,
+        "tokenAddr": "0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+        "scaleFactor": "1000000000000000000"
+      },
+      {
+        "tokenId": "AMIS",
+        "tokenName": "AMIS",
+        "tokenCode": 118,
+        "tokenAddr": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+        "scaleFactor": "1000000000"
+      },
+      {
+        "tokenId": "AIT",
+        "tokenName": "",
+        "tokenCode": 117,
+        "tokenAddr": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+        "scaleFactor": "1000000000000000000"
+      }
+    ]
+  }
+}
