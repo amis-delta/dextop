@@ -1,0 +1,160 @@
+{
+  "tradingConfig": {
+    "maxOpenOrdersPerTrader": 100,
+    "minNewOrderTtlSec": "0",
+    "tokens": {
+      "AMIS": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0.01,
+        "minDepositAmount": 0.001,
+        "minWithdrawAmount": 0.001,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      },
+      "AIT": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 200,
+        "minWithdrawAmount": 200,
+        "tradingStartTimeSec": "1530852600",
+        "enableTimeSec": "1530766800"
+      },
+      "BUT": {
+        "minPlaceOrderAmount": 750,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 150,
+        "minWithdrawAmount": 150,
+        "tradingStartTimeSec": "1528692600",
+        "enableTimeSec": "1528606200"
+      },
+      "CHSB": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 300,
+        "minWithdrawAmount": 300,
+        "tradingStartTimeSec": "1529383800",
+        "enableTimeSec": "1529298000"
+      },
+      "CTXC": {
+        "minPlaceOrderAmount": 20,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 4,
+        "minWithdrawAmount": 4,
+        "tradingStartTimeSec": "1527397200",
+        "enableTimeSec": "0"
+      },
+      "DCC": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 100,
+        "minWithdrawAmount": 100,
+        "tradingStartTimeSec": "1529653800",
+        "enableTimeSec": "1529640000"
+      },
+      "ETH": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0.1,
+        "minDepositAmount": 0.01,
+        "minWithdrawAmount": 0.01,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      },
+      "HPB": {
+        "minPlaceOrderAmount": 10,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 2,
+        "minWithdrawAmount": 2,
+        "tradingStartTimeSec": "1528260600",
+        "enableTimeSec": "1528174800"
+      },
+      "KNC": {
+        "minPlaceOrderAmount": 15,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 3,
+        "minWithdrawAmount": 3,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      },
+      "LOOM": {
+        "minPlaceOrderAmount": 65,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 13,
+        "minWithdrawAmount": 13,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      },
+      "MEDX": {
+        "minPlaceOrderAmount": 1500,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 300,
+        "minWithdrawAmount": 300,
+        "tradingStartTimeSec": "1528260600",
+        "enableTimeSec": "1528174800"
+      },
+      "PAL": {
+        "minPlaceOrderAmount": 750,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 150,
+        "minWithdrawAmount": 150,
+        "tradingStartTimeSec": "1528260600",
+        "enableTimeSec": "1528174800"
+      },
+      "QKC": {
+        "minPlaceOrderAmount": 150,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 60,
+        "minWithdrawAmount": 60,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      },
+      "RTE": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 100,
+        "minWithdrawAmount": 100,
+        "tradingStartTimeSec": "1529740200",
+        "enableTimeSec": "1529722800"
+      },
+      "TTC": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 30,
+        "minWithdrawAmount": 30,
+        "tradingStartTimeSec": "1529995800",
+        "enableTimeSec": "1529992800"
+      },
+      "UPP": {
+        "minPlaceOrderAmount": 0,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 10,
+        "minWithdrawAmount": 10,
+        "tradingStartTimeSec": "1528970400",
+        "enableTimeSec": "1528970400"
+      },
+      "XUC": {
+        "minPlaceOrderAmount": 8,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 2,
+        "minWithdrawAmount": 2,
+        "tradingStartTimeSec": "1528692600",
+        "enableTimeSec": "1528606200"
+      },
+      "YEE": {
+        "minPlaceOrderAmount": 1000,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 200,
+        "minWithdrawAmount": 200,
+        "tradingStartTimeSec": "1527828600",
+        "enableTimeSec": "0"
+      },
+      "ZIL": {
+        "minPlaceOrderAmount": 200,
+        "minPlaceOrderValue": 0,
+        "minDepositAmount": 40,
+        "minWithdrawAmount": 40,
+        "tradingStartTimeSec": "0",
+        "enableTimeSec": "0"
+      }
+    }
+  }
+}
